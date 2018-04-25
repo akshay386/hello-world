@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hii,my name is akshay..
+My BE completed in vidhyadeep institute of engineering and technology college.
